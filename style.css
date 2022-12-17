@@ -3,3 +3,43 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  color: red;
+}
+
+header {
+  text-align: center;
+}
+
+figure {
+  text-align: center;
+}
+
+#featured-property p {
+  text-align: center;
+  width: 800px;
+  margin: auto;
+  padding-bottom: 15px;
+
+}
+
+figcaption {
+  font-size: small;
+}
+
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(152, 178, 190);
+}
+
+
+#details {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 25px;
+  background-color: red;
+}
